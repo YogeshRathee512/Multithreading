@@ -1,16 +1,5 @@
-#Matrix Multiplication with Multithreading
+![image](https://github.com/YogeshRathee512/Multithreading/assets/124448614/2bc1feb4-dd18-43a8-a27b-0d5411643908)
 
-This Python script demonstrates matrix multiplication using multithreading and measures the execution time with varying numbers of threads.
+![image](https://github.com/YogeshRathee512/Multithreading/assets/124448614/3e3ea261-f21c-4930-a7f3-f2377b5c8e79)
 
-#Usage
-Ensure Python is installed, then execute the script:
-
-python Multithreading.py
-
-#Execution Time (seconds) vs Number of Threads:
-
-Threads  1      2     3      4     5     6      7     8
-Time    12.99  8.75  7.34   8.17  6.70  7.88   8.11  6.67
-
-
-
+![image](https://github.com/YogeshRathee512/Multithreading/assets/124448614/3803c3e9-b322-4641-a3ae-e21b83d46cdc)
